@@ -1,0 +1,14 @@
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\EntityFramework.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\EntityFramework.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\Newtonsoft.Json.dll
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\bin\Newtonsoft.Json.xml
+C:\Users\Berk\Documents\Visual Studio 2019\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache

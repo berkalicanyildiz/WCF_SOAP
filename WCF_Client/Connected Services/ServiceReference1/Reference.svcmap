@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="261002fa-1e8f-4efe-bc35-bdb36b9f4ebb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57037/GeriSayimService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GeriSayimService.disco" MetadataType="Disco" ID="8d89c8ed-c9b1-4506-9bd0-37148d006c63" SourceId="1" SourceUrl="http://localhost:57037/GeriSayimService.svc?disco" />
+    <MetadataFile FileName="GeriSayimService.xsd" MetadataType="Schema" ID="63900079-4426-4bfb-b3d2-ecb8c12a0622" SourceId="1" SourceUrl="http://localhost:57037/GeriSayimService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GeriSayimService1.xsd" MetadataType="Schema" ID="739aff68-c233-4a7f-8e7c-cd02d3f5913c" SourceId="1" SourceUrl="http://localhost:57037/GeriSayimService.svc?xsd=xsd2" />
+    <MetadataFile FileName="GeriSayimService2.xsd" MetadataType="Schema" ID="786ebc64-5766-4046-8a39-8df47f54e931" SourceId="1" SourceUrl="http://localhost:57037/GeriSayimService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GeriSayimService.wsdl" MetadataType="Wsdl" ID="a3eea6c4-7abe-4c7c-af2d-a49ed83d5780" SourceId="1" SourceUrl="http://localhost:57037/GeriSayimService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
