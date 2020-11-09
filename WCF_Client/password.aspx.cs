@@ -18,7 +18,9 @@ namespace WCF_Client
         {
             client.ClientCredentials.ServiceCertificate.Authentication.CertificateValidationMode = X509CertificateValidationMode.None;
             client.ClientCredentials.UserName.UserName = "berk";
-            client.ClientCredentials.UserName.Password = "1234";
+            client.ClientCredentials.UserName.Password = "123";
+            //client.ClientCredentials.UserName.Password = "1234";  //hatalı testi için
+
             try
             {
                 var result = client.TestSifre();
